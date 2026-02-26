@@ -2,7 +2,6 @@
 
 A curated collection of system design concepts, patterns, and architectures designed as a comprehensive refresher for technical interviews.
 
-It contains my personal collection of notes and resources I consider important for preparing for system design interviews.
 
 ## 🎯 Purpose
 
